@@ -19,7 +19,7 @@
 
 ## Структура проекта
 ```
-Lab20_DOM_Events_Иванов/
+Lab20_DOM_Events_Lepilkin/
 ├── index.html # главная страница с формой, кнопками и выводом
 ├── style.css # базовые стили (опционально)
 ├── main.js # основная логика: приветствие, форма, валидация
@@ -27,16 +27,16 @@ Lab20_DOM_Events_Иванов/
 ├── dynamicElements.js # создание/удаление элементов + делегирование
 ├── README.md # описание лабораторной работы
 └── img/ # скриншоты этапов работы
-├── gitPushLab20_DOM_Events_Иванов.png
-├── step2_domStructureLab20_Иванов.png
-├── step3_domSelectionLab20_Иванов.png
-├── step4_domManipulationLab20_Иванов.png
-├── step5_clickEventLab20_Иванов.png
-├── step6_inputEventListener_Иванов.png
-├── step7_miniTaskLab20_Иванов.png
-├── step8_formInputLab20_Иванов.png
-├── step9_formValidationLab20_Иванов.png
-└── step10_dynamicElementsLab20_Иванов.png
+├── gitPushLab20_DOM_Events_Lepilkin.png
+├── step2_domStructureLab20_Lepilkin.png
+├── step3_domSelectionLab20_Lepilkin.png
+├── step4_domManipulationLab20_Lepilkin.png
+├── step5_clickEventLab20_Lepilkin.png
+├── step6_inputEventListener_Lepilkin.png
+├── step7_miniTaskLab20_Lepilkin.png
+├── step8_formInputLab20_Lepilkin.png
+├── step9_formValidationLab20_Lepilkin.png
+└── step10_dynamicElementsLab20_Lepilkin.png
 ```
 
 ## Сравнение с C# (WinForms / WPF)

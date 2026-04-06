@@ -34,3 +34,9 @@ if (input.value.trim() !== ""){
 }
 });
 
+const clearButton = document.getElementById("clearButton");
+clearButton.addEventListener("click", () => {
+    input.value = "";
+    output.textContent = "";
+});
+
